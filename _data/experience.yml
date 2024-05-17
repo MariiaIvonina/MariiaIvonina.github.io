@@ -1,19 +1,39 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Appointments
+- company: Kyushu University, Platform of Inter/Transdisciplinary Energy Research (Q-PIT)
+  position: Postdoctoral researcher
+  duration: Apr, 2024 &mdash; Present
+  summary: Being a member of a Quantum Computational Science laboratory, my current research is focused on the&colon; 
+  <ul>
+  <li> Development of Graph Neural Network for predicting the magnitude of ion diffusion and electron current in the surface/interface-combined computational model of fuel cell; device inverse design; atomistic multiscale modeling<\li> 
+  <li> Modeling of interactions at the nano-bio interface, such as the oxidation reaction of catechols (dopamine and DOPA molecules) in contact with gold nanoparticles, where gold nanoparticles act as drug delivery agents<\li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Stockholm University, Department of Materials and Environmental Chemistry (MMK)
+  position: Visiting researcher
+  duration: Dec, 2023 &mdash; Feb, 2024
+  summary: Molecular Dynamics simulation of SARS-CoV-2 pseudoknot alone and in combination with small ligand molecules. This study was conducted during JSPS fellowship.
 
+- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences (IGSES)
+  position: JSPS-DC2 &rarr; JSPS-PD fellow
+  duration: Apr, 2022  &mdash; March, 2024
+  summary: Development of quantum chemistry-machine learning combined methods to elucidate phenomena related to the large biopolymers. This research included investigation of the Guanine:Cytosine  Adenine:Thymine transition mutation that occurs in lesion-containing DNA upon methylation.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences (IGSES)
+  position: Ph.D. student &amp; Research Assistant
+  duration: Oct, 2019  &mdash; Sep, 2022
+  summary: Development and applying the original quantum chemistry methods in combination with machine learning to calculate properties of polymers. Focus on Elongation method (linear-scale, high-precision method for calculating large aperiodic polymers), which was originally developed and currently is maintained in a host laboratory of Theoretical Material Science.
+
+- company: Tokyo University, Institute for Solid State Physics (ISSP)
+  position: STEPS exchange student
+  duration: Aug, 2018
+  summary: Studying the machine learning models to predict the oxygen diffusion in solid oxide fuel cells (SOFC).
+
+  - company: Saint Petersburg University, Institute of Chemistry
+  position: Master student &amp; Research Assistant
+  duration: Sep, 2017  &mdash; Jun, 2019
+  summary: Using DFT and TD/DFT quantum chemistry methods to study the fluorescent properties of iridium and lanthanide-containing complexes decorated with aromatic organic ligands. The calculations were conducted in collaboration with experimentalist research group.
+
+  - company: Saint Petersburg University, Institute of Chemistry
+  position: Bachelor student
+  duration: Sep, 2014  &mdash; Jun, 2017
+  summary: Using Molecular Dymanics and DFT for multiscale modeling of oxygen ion diffusion in YSZ and ScSZ bulk crystals.
