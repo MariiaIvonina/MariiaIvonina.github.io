@@ -1,32 +1,32 @@
 # Appointments
-- company: Kyushu University, Platform of Inter&sol;Transdisciplinary Energy Research (Q-PIT)
+- company: Kyushu University, Platform of Inter&sol;Transdisciplinary Energy Research &lpar;Q-PIT&rpar;
   position: Postdoctoral researcher
   duration: Apr, 2024 &mdash; Present
   summary: Being a member of a Quantum Computational Science laboratory, my current research is focused on the&colon; 
-#  <ul>
-#  <li> Development of Graph Neural Network for predicting the magnitude of ion diffusion and electron current in the surface/interface-combined computational model of fuel cell; device inverse design; atomistic multiscale modeling</li> 
-#  <li> Modeling of interactions at the nano-bio interface, such as the oxidation reaction of catechols (dopamine and DOPA molecules) in contact with gold nanoparticles, where gold nanoparticles act as drug delivery agents</li>
-#  </ul>
+  <ul>
+  <li> Development of Graph Neural Network for predicting the magnitude of ion diffusion and electron current in the surface/interface-combined computational model of fuel cell; device inverse design; atomistic multiscale modeling</li> 
+  <li> Modeling of interactions at the nano-bio interface, such as the oxidation reaction of catechols &lpar;dopamine and DOPA molecules&rpar; in contact with gold nanoparticles, where gold nanoparticles act as drug delivery agents</li>
+  </ul>
 
-- company: Stockholm University, Department of Materials and Environmental Chemistry (MMK)
+- company: Stockholm University, Department of Materials and Environmental Chemistry &lpar;MMK&rpar;
   position: Visiting researcher
   duration: Dec, 2023 &mdash; Feb, 2024
   summary: Molecular Dynamics simulation of SARS-CoV-2 pseudoknot alone and in combination with small ligand molecules. This study was conducted during JSPS fellowship.
 
-- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences (IGSES)
+- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences &lpar;IGSES&rpar;
   position: JSPS-DC2 &rarr; JSPS-PD fellow
   duration: Apr, 2022  &mdash; March, 2024
-  summary: Development of quantum chemistry-machine learning combined methods to elucidate phenomena related to the large biopolymers. This research included investigation of the Guanine:Cytosine  Adenine:Thymine transition mutation that occurs in lesion-containing DNA upon methylation.
+  summary: Development of quantum chemistry&ndash;machine learning combined methods to elucidate phenomena related to the large biopolymers. This research included investigation of the Guanine:Cytosine&rarr;Adenine:Thymine transition mutation that occurs in lesion-containing DNA upon methylation.
 
-- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences (IGSES)
+- company: Kyushu University, Interdisciplinary Graduate School of Engineering Sciences &lpar;IGSES&rpar;
   position: Ph.D. student &amp; Research Assistant
   duration: Oct, 2019  &mdash; Sep, 2022
-  summary: Development and applying the original quantum chemistry methods in combination with machine learning to calculate properties of polymers. Focus on Elongation method (linear-scale, high-precision method for calculating large aperiodic polymers), which was originally developed and currently is maintained in a host laboratory of Theoretical Material Science.
+  summary: Development and applying the original quantum chemistry methods in combination with machine learning to calculate properties of polymers. Focus on Elongation method &lpar;linear-scale, high-precision method for calculating large aperiodic polymers&rpar;, which was originally developed and currently is maintained in a host laboratory of Theoretical Material Science.
 
-- company: Tokyo University, Institute for Solid State Physics (ISSP)
+- company: Tokyo University, Institute for Solid State Physics &lpar;ISSP&rpar;
   position: STEPS exchange student
   duration: Aug, 2018
-  summary: Studying the machine learning models to predict the oxygen diffusion in solid oxide fuel cells (SOFC).
+  summary: Studying the machine learning models to predict the oxygen diffusion in solid oxide fuel cells &lpar;SOFC&rpar;.
 
 - company: Saint Petersburg University, Institute of Chemistry
   position: Master student &amp; Research Assistant
