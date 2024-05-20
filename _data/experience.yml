@@ -3,7 +3,7 @@
   position: Postdoctoral researcher
   duration: Apr, 2024 &mdash; Present
   summary: Being a member of a Quantum Computational Science laboratory, my current research is focused on the&colon; 
-  <ul class="resume-item-l
+  <ul class="resume-item-list">
     <li> Development of Graph Neural Network for predicting the magnitude of ion diffusion and electron current in the surface/interface-combined computational model of fuel cell; device inverse design; atomistic multiscale modeling</li> 
     <li> Modeling of interactions at the nano-bio interface, such as the oxidation reaction of catechols &lpar;dopamine and DOPA molecules&rpar; in contact with gold nanoparticles, where gold nanoparticles act as drug delivery agents</li>
   </ul>
