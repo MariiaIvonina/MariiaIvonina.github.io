@@ -17,11 +17,11 @@ resume_title:                   "Postdoctoral researcher at Kyushu University"
 resume_contact_email:           "m.ivonina@kyudai.jp"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
+resume_contact_telephone:       "000-0000"
 resume_contact_address:         "744 Motooka, Nishi-ku Fukuoka, 819-0395"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "744 Motooka, Nishi-ku Fukuoka, 819-0395 • m.ivonina@kyudai.jp"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am a researcher at a start of academic career...</p>"
 
@@ -38,7 +38,7 @@ resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           false
+resume_section_links:           true
 resume_section_associations:    false
 resume_section_interests:       false
 
