@@ -106,8 +106,12 @@
 
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <h3 class="resume-item-title" class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}">{{ project.project }}</a>{% else %}{{ recognition.project }}{% endif %}</h3>
           {% if project.image %}
             <img src="{{ project.image }}" alt="{{ project.project }} image" itemprop="image" style="width: 680px; height: auto; border:1px solid #c7c7c7;margin: 6px 0">
+          {% endif %}
+          {% if project.video %}
+            <iframe src="{{ project.video }}" itemprop="video" width="680" height="602" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           {% endif %}
         </div>
         {% endfor %}
