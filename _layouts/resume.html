@@ -142,6 +142,12 @@
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          {% if recognition.video %}
+            <video controls itemprop="video" style="width: 680px; height: auto; ">
+            <source src="{{ recognition.video }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          {% endif %}
           <h3 class="resume-item-title" class="resume-item-title" itemprop="name">{% if recognition.url %}<a href="{{ recognition.url }}">{{ recognition.award }}</a>{% else %}{{ recognition.award }}{% endif %}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
