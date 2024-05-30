@@ -142,17 +142,15 @@
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          {% if recognition.video %}
-            <iframe src="{{ recognition.video }}" itemprop="video" width="680" height="602" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-          </video>
-          {% endif %}
           <h3 class="resume-item-title" class="resume-item-title" itemprop="name">{% if recognition.url %}<a href="{{ recognition.url }}">{{ recognition.award }}</a>{% else %}{{ recognition.award }}{% endif %}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
+          {% if recognition.video %}
+            <iframe src="{{ recognition.video }}" itemprop="video" width="680" height="602" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          {% endif %}
         </div>
         {% endfor %}
       </section>
-      <iframe src="https://player.vimeo.com/video/601680774?h=38b480f68f" width="680" height="602" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
       <!-- end Recognition -->
       {% endif %}
 
