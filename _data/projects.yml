@@ -1,6 +1,12 @@
-# Posters
+# Publications/Posters
 
-- image: images/Poster_HPCSS2021.jpg
+- project: Publication list
+  url: https://scholar.google.com/citations?user=chtuq3MAAAAJ&hl=en
 
-- image: images/Poster_MolSci2023.jpg
+- project: Talk from the IHPCSS 2021
+  video: https://youtu.be/q7nX0GFjGFI
+
+- project: Poster from the MolSci 2023 conference
+  image: images/Poster_MolSci2023.jpg
+
 
