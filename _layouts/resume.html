@@ -111,7 +111,7 @@
             <img src="{{ project.image }}" alt="{{ project.project }} image" itemprop="image" style="width: 680px; height: auto; border:1px solid #c7c7c7;margin: 6px 0">
           {% endif %}
           {% if project.video %}
-            <iframe src="{{ project.video }}" itemprop="video" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="{{ project.video }}" itemprop="video" width="680" height="auto" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           {% endif %}
         </div>
         {% endfor %}
@@ -150,7 +150,7 @@
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
           {% if recognition.video %}
-            <iframe src="{{ recognition.video }}" itemprop="video" width="680" height="602" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <iframe src="{{ recognition.video }}" itemprop="video" width="680" height="auto" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           {% endif %}
         </div>
         {% endfor %}
