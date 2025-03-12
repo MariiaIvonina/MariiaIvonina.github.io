@@ -2,7 +2,11 @@
 - company: Kyushu University, Platform of Inter&sol;Transdisciplinary Energy Research &lpar;Q-PIT&rpar;
   position: Postdoctoral researcher
   duration: Apr, 2024 &mdash; Present
-  summary: Being a member of a Quantum Computational Science laboratory, my current research is focused on the&colon;	<ul class="resume-item-list"><li> Development of Graph Neural Network for predicting the magnitude of ion diffusion and electron current in the surface/interface-combined computational model of fuel cell; device inverse design; atomistic multiscale modeling</li> <li> Modeling of interactions at the nano-bio interface, such as the oxidation reaction of catechols &lpar;dopamine and DOPA molecules&rpar; in contact with gold nanoparticles, where gold nanoparticles act as drug delivery agents</li></ul>
+  summary: Being a member of a Quantum Computational Science laboratory, my current research is focused on the&colon;	<ul class="resume-item-list">
+  <li> 
+  Applying kinetic Monte Carlo and ML for predicting the magnitude of ionic current in ceramics; device inverse design; atomistic multiscale modeling</li> 
+  <li> Conducting Molecular Dynamics and Quantum Chemistry calculations as a PI in KAKENHI Start‑Up project - “Targeting ‑1PRF in RNA viruses by small molecules using AI‑assisted computational chemistry tools”</li>
+  </ul>
 
 - company: Stockholm University, Department of Materials and Environmental Chemistry &lpar;MMK&rpar;
   position: Visiting researcher
@@ -27,7 +31,7 @@
 - company: Saint Petersburg University, Institute of Chemistry
   position: Master student &amp; Research Assistant
   duration: Sep, 2017  &mdash; Jun, 2019
-  summary: Using DFT and TD/DFT quantum chemistry methods to study the fluorescent properties of iridium and lanthanide-containing complexes decorated with aromatic organic ligands. The calculations were conducted in collaboration with experimentalist research group.
+  summary: Using DFT and TD-DFT to study the fluorescent properties of iridium and lanthanide-containing complexes decorated with aromatic organic ligands. The calculations were conducted in collaboration with experimentalist research group.
 
 - company: Saint Petersburg University, Institute of Chemistry
   position: Bachelor student
