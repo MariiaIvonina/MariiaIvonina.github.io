@@ -1,6 +1,6 @@
 # Site settings
 title: "Mariia Ivonina"
-description: "Kyushu University"
+description: "RIKEN iTHEMS"
 
 # Build settings
 markdown: kramdown
@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mariia Ivonina"
-resume_title:                   "Postdoctoral researcher at Kyushu University"
+resume_title:                   "Postdoctoral researcher at RIKEN"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "m.ivonina@kyudai.jp"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "000-0000"
-resume_contact_address:         "744 Motooka, Nishi-ku Fukuoka, 819-0395"
+resume_contact_address:         "2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
 
-resume_header_contact_info:     "744 Motooka, Nishi-ku Fukuoka, 819-0395 • m.ivonina@kyudai.jp"
+resume_header_contact_info:     "2-1 Hirosawa, Wako, Saitama 351-0198, Japan • m.ivonina@kyudai.jp or mariia.ivonina@riken.jp"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am an early-career researcher with a strong interest in computational chemistry and machine learning. My work focuses on developing and applying quantumc chemistry and atomic simulation to tackle complex molecular and materials science challenges. I am passionate about interdisciplinary research and exploring innovative approaches at the intersection of chemistry, physics, and artificial intelligence.</p>"
